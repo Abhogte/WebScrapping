@@ -1,0 +1,501 @@
+number,movies,cast,directors
+0,Citizen Kane,Joseph Cotten,Orson Welles
+1,The Godfather,Orson Welles,Francis Ford Coppola
+2,Rear Window,Al Pacino,Alfred Hitchcock
+3,Casablanca,Marlon Brando,Michael Curtiz
+4,Boyhood,Frank Cady,Richard Linklater
+5,Three Colors: Red,Georgine Darcy,Krzysztof Kieslowski
+6,Vertigo,Grace Kelly,Alfred Hitchcock
+7,Notorious,James Stewart,Alfred Hitchcock
+8,Singin' in the Rain,Judith Evelyn,Gene Kelly
+9,City Lights,Raymond Burr,Stanley Donen
+10,Moonlight,Ross Bagdasarian,Charles Chaplin
+11,Intolerance,Sara Berner,Barry Jenkins
+12,Pinocchio,Thelma Ritter,D.W. Griffith
+13,Touch of Evil,Wendell Corey,Ben Sharpsteen
+14,The Lady Vanishes,Humphrey Bogart,Bill Roberts
+15,The Treasure of the Sierra Madre,Ingrid Bergman,Hamilton Luske
+16,Pan's Labyrinth,Bonnie Cross,Jack Kinney
+17,Some Like It Hot,Elijah Smith,Norman Ferguson
+18,North by Northwest,Ellar Coltrane,T. Hee
+19,Hoop Dreams,Ethan Hawke,Wilfred Jackson
+20,Rashomon,Libby Villari,Orson Welles
+21,All About Eve,Lorelei Linklater,Alfred Hitchcock
+22,Jules and Jim,Marco Perella,John Huston
+23,The Wild Bunch,Patricia Arquette,Guillermo del Toro
+24,My Left Foot,Steven Chester Prince,Billy Wilder
+25,The Third Man,Irène Jacob,Alfred Hitchcock
+26,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Jean-Louis Trintignant,Steve James
+27,"Quo Vadis, Aida?",Barbara Bel Geddes,Akira Kurosawa
+28,Gone with the Wind,David Ahdar,Joseph L. Mankiewicz
+29,"4 Months, 3 Weeks and 2 Days",Ellen Corby,François Truffaut
+30,Psycho,Henry Jones,Sam Peckinpah
+31,Battleship Potemkin,James Stewart,Jim Sheridan
+32,A Streetcar Named Desire,Kim Novak,Carol Reed
+33,American Graffiti,Konstantin Shayne,Stanley Kubrick
+34,Dumbo,Lee Patrick,Jasmila Zbanic
+35,Roma,Raymond Bailey,George Cukor
+36,Ran,Tom Helmore,Sam Wood
+37,The Shop Around the Corner,Cyd Charisse,Victor Fleming
+38,12 Angry Men,Dawn Addams,Cristian Mungiu
+39,Manchester by the Sea,Debbie Reynolds,Alfred Hitchcock
+40,Rosemary's Baby,Donald O'Connor,Sergei M. Eisenstein
+41,The Maltese Falcon,Douglas Fowley,Elia Kazan
+42,12 Years a Slave,Gene Kelly,George Lucas
+43,Killer of Sheep,Jean Hagen,Ben Sharpsteen
+44,Nashville,John Albright,Bill Roberts
+45,Ratatouille,Millard Mitchell,Jack Kinney
+46,Parasite,Rita Moreno,John Elliotte
+47,Rocks,Alex R. Hibbert,Norman Ferguson
+48,Don't Look Now,Ashton Sanders,Samuel Armstrong
+49,The Grapes of Wrath,Duan Sanderson,Wilfred Jackson
+50,Children of Paradise (1945),Herman 'Caheei McGloun,Alfonso Cuarón
+51,Mean Streets,Jaden Piner,Akira Kurosawa
+52,The Lady Eve,Janelle Monáe,Ernst Lubitsch
+53,Gravity,Mahershala Ali,Sidney Lumet
+54,Fantasia,Naomie Harris,Kenneth Lonergan
+55,Spirited Away,Shariff Earp,Roman Polanski
+56,Beauty and the Beast,Lillian Gish,John Huston
+57,Small Axe: Lovers Rock,Charles Judels,Steve McQueen
+58,Toy Story,Cliff Edwards,Charles Burnett
+59,The Bride of Frankenstein,Dickie Jones,Robert Altman
+60,The Social Network,Don Brodie,Brad Bird
+61,My Fair Lady,Frankie Darro,Joon-ho Bong
+62,Portrait of a Lady on Fire,Marion Darlington,Sarah Gavron
+63,I Am Not Your Negro,Mel Blanc,Nicolas Roeg
+64,Woodstock,Stuart Buchanan,John Ford
+65,Double Indemnity,Walter Catlett,Marcel Carné
+66,Snow White and the Seven Dwarfs,Akim Tamiroff,Martin Scorsese
+67,The Hurt Locker,Charlton Heston,Preston Sturges
+68,Anatomy of a Murder,Dennis Weaver,Alfonso Cuarón
+69,Zero Dark Thirty,Janet Leigh,Ben Sharpsteen
+70,Collective,Joanna Moore,Bill Roberts
+71,A Separation,Joseph Calleia,David Hand
+72,WALL-E,Mort Mills,Ford Beebe Jr.
+73,Carol,Orson Welles,Hamilton Luske
+74,Before Midnight,Ray Collins,James Algar
+75,Amour,Valentin de Vargas,Jim Handley
+76,Dunkirk,Alfonso Bedoya,Norman Ferguson
+77,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",Arturo Soto Rangel,Paul Satterfield
+78,The Man Who Shot Liberty Valance,Barton MacLane,Samuel Armstrong
+79,The Searchers,Bruce Bennett,T. Hee
+80,45 Years,Humphrey Bogart,Wilfred Jackson
+81,Taxi Driver,José Torvay,Hayao Miyazaki
+82,Pulp Fiction,Manuel Dondé,Gary Trousdale
+83,The Manchurian Candidate,Margarito Luna,Kirk Wise
+84,Mr. Turner,Tim Holt,Steve McQueen
+85,The Irishman,Walter Huston,John Lasseter
+86,Grave of the Fireflies (1988),Ariadna Gil,James Whale
+87,The Wild Child,Ivana Baquero,David Fincher
+88,Amazing Grace,Sergi López,George Cukor
+89,Shadow of a Doubt,Billy Gray,Céline Sciamma
+90,Inside Out,George E. Stone,Raoul Peck
+91,Sideways,George Raft,Michael Wadleigh
+92,Schindler's List,Jack Lemmon,Billy Wilder
+93,Meet Me in St. Louis,Joan Shawlee,Ben Sharpsteen
+94,The Apartment,Joe E. Brown,David Hand
+95,Apocalypse Now,Marilyn Monroe,Larry Morey
+96,The Gunfighter,Nehemiah Persoff,Perce Pearce
+97,We Were Here,Pat O'Brien,Wilfred Jackson
+98,Lady Bird,Tony Curtis,William Cottrell
+99,Chimes at Midnight,Adam Williams,Kathryn Bigelow
+100,The Lord of the Rings: The Return of the King,Cary Grant,Otto Preminger
+101,Carlos,Edward Platt,Kathryn Bigelow
+102,Marriage Story,Eva Marie Saint,Alexander Nanau
+103,La La Land,James Mason,Asghar Farhadi
+104,Faces Places,Jessie Royce Landis,Andrew Stanton
+105,"Crouching Tiger, Hidden Dragon",Josephine Hutchinson,Todd Haynes
+106,Nomadland,Leo G. Carroll,Richard Linklater
+107,The Servant,Martin Landau,Michael Haneke
+108,Call Me by Your Name,Philip Ober,Christopher Nolan
+109,The Magnificent Ambersons,Anne Baxter,Ahmir-Khalib Thompson
+110,Reversal of Fortune,Barbara Bates,John Ford
+111,David Byrne’s American Utopia,Bette Davis,John Ford
+112,Shoplifters,Celeste Holm,Andrew Haigh
+113,Shoah: Four Sisters,Gary Merrill,Martin Scorsese
+114,The 39 Steps,George Sanders,Quentin Tarantino
+115,Duck Soup,Gregory Ratoff,John Frankenheimer
+116,Petite Maman,Hugh Marlowe,Mike Leigh
+117,Days of Heaven,Marilyn Monroe,Martin Scorsese
+118,Toni Erdmann,Thelma Ritter,Isao Takahata
+119,Yi Yi,Jeanne Moreau,François Truffaut
+120,McCabe & Mrs. Miller,Oskar Werner,Alan Elliott
+121,The Best Years of Our Lives,Ben Johnson,Sydney Pollack
+122,Stagecoach,Edmond O'Brien,Alfred Hitchcock
+123,Inside Llewyn Davis,Emilio Fernández,Pete Docter
+124,Sherpa,Ernest Borgnine,Ronaldo Del Carmen
+125,There Will Be Blood,Jaime Sánchez,Alexander Payne
+126,Badlands,L.Q. Jones,Steven Spielberg
+127,The Last Picture Show,Robert Ryan,Vincente Minnelli
+128,Do the Right Thing,Strother Martin,Billy Wilder
+129,Sita Sings the Blues,Warren Oates,Francis Ford Coppola
+130,The Decline of Western Civilization,William Holden,Henry King
+131,Rio Bravo,Brenda Fricker,Bill Weber
+132,Brother's Keeper,Daniel Day-Lewis,David Weissman
+133,Crumb,Alida Valli,Greta Gerwig
+134,Spotlight,Bernard Lee,Orson Welles
+135,The Band Wagon,Erich Ponto,Peter Jackson
+136,One More Time with Feeling,Ernst Deutsch,Olivier Assayas
+137,The Diving Bell and the Butterfly,Joseph Cotten,Noah Baumbach
+138,Invasion of the Body Snatchers,Orson Welles,Damien Chazelle
+139,The Class,Paul Hörbiger,Agnès Varda
+140,Platoon,Siegfried Breuer,JR
+141,35 Shots of Rum,Trevor Howard,Ang Lee
+142,Apocalypse Now: Final Cut,Wilfrid Hyde-White,Chloé Zhao
+143,Chinatown,George C. Scott,Joseph Losey
+144,The Florida Project,Peter Sellers,Luca Guadagnino
+145,Timbuktu,Boris Isakovic,Fred Fleck
+146,Frenzy,Boris Ler,Orson Welles
+147,Brief Encounter,Dino Bajrovic,Robert Wise
+148,Cool Hand Luke,Emir Hadzihafizbegovic,Barbet Schroeder
+149,Little Women,Izudin Bajrovic,Spike Lee
+150,Maborosi,Jasna Djuricic,Hirokazu Koreeda
+151,Top Hat,Johan Heldenbergh,Claude Lanzmann
+152,Apocalypse Now Redux,Raymond Thiry,Alfred Hitchcock
+153,Annie Hall,Reinout Bussemaker,Leo McCarey
+154,The Lord of the Rings: The Fellowship of the Ring,Teun Luijkx,Céline Sciamma
+155,Quiz Show,Vivien Leigh,Terrence Malick
+156,Leviathan,Anthony Perkins,Maren Ade
+157,Werckmeister Harmonies,Janet Leigh,Edward Yang
+158,Toy Story 3,A. Glauberman,Robert Altman
+159,This Is Spinal Tap,Aleksandr Antonov,William Wyler
+160,The Look of Silence,Aleksandr Levshin,John Ford
+161,Tower,Grigoriy Aleksandrov,Ethan Coen
+162,The Rider,Ivan Bobrov,Joel Coen
+163,Moolaadé,Konstantin Feldman,Jennifer Peedom
+164,Atanarjuat: The Fast Runner,Mikhail Gomorov,Paul Thomas Anderson
+165,Time,N. Poltavtseva,Terrence Malick
+166,Gavagai,Prokhorenko,Peter Bogdanovich
+167,The Man Who Would Be King,Vladimir Barskiy,Spike Lee
+168,The Killing,Ann Dere,Nina Paley
+169,Swing Time,Karl Malden,Penelope Spheeris
+170,Breaking Away,Kim Hunter,Howard Hawks
+171,The Souvenir,Marlon Brando,Bruce Sinofsky
+172,After Life,Nick Dennis,Joe Berlinger
+173,Son of Saul,Peg Hillias,Terry Zwigoff
+174,Love Affair,Richard Garrick,Thomas McCarthy
+175,Frankenstein,Rudy Bond,Vincente Minnelli
+176,8½,Vivien Leigh,Andrew Dominik
+177,Little Women,Wright King,Julian Schnabel
+178,E.T. The Extra-Terrestrial,Bo Hopkins,Don Siegel
+179,The African Queen,Candy Clark,Laurent Cantet
+180,The Triplets of Belleville,Charles Martin Smith,Oliver Stone
+181,The Queen,Cindy Williams,Claire Denis
+182,All Quiet on the Western Front,Mackenzie Phillips,Francis Ford Coppola
+183,A Bread Factory Part Two: Walk With Me a While,Manuel Padilla Jr.,Roman Polanski
+184,Never Rarely Sometimes Always,Paul Le Mat,Sean Baker
+185,The Ladykillers,Richard Dreyfuss,Abderrahmane Sissako
+186,Young Mr. Lincoln,Ron Howard,Alfred Hitchcock
+187,Stories We Tell,Wolfman Jack,David Lean
+188,A Bread Factory Part One: For the Sake of Gold,Billy Bletcher,Stuart Rosenberg
+189,The Act of Killing,Cliff Edwards,George Cukor
+190,"This Is Not a Burial, It's a Resurrection",Eddie Holden,Hirokazu Koreeda
+191,On the Waterfront,Edward Brophy,Mark Sandrich
+192,Jafar Panahi's Taxi,Herman Bing,Francis Ford Coppola
+193,Ida,James Baskett,Woody Allen
+194,Beau Travail,Jim Carmichael,Peter Jackson
+195,Uncut Gems,Noreen Gammill,Robert Redford
+196,Waltz with Bashir,Sterling Holloway,Andrei Zvyagintsev
+197,They Shall Not Grow Old,Verna Felton,Ágnes Hranitzky
+198,EX LIBRIS: The New York Public Library,Andy Cortés,Béla Tarr
+199,Secrets & Lies,Carlos Peralta,Lee Unkrich
+200,Patton,Daniela Demesa,Rob Reiner
+201,The Favourite,Diego Cortina Autrey,Joshua Oppenheimer
+202,The Sweet Hereafter,Fernando Grediaga,Keith Maitland
+203,The Right Stuff,Marco Graf,Chloé Zhao
+204,Bambi,Marina de Tavira,Ousmane Sembene
+205,Flee,Nancy García García,Zacharias Kunuk
+206,Bringing Up Baby,Verónica García,Garrett Bradley
+207,No Country for Old Men,Yalitza Aparicio,Rob Tregenza
+208,The Gatekeepers,Akira Terao,John Huston
+209,Nostalgia for the Light,Daisuke Ryû,Stanley Kubrick
+210,David Copperfield,Jinpachi Nezu,George Stevens
+211,Saving Private Ryan,Tatsuya Nakadai,Peter Yates
+212,After Hours,Edwin Maxwell,Joanna Hogg
+213,Her,Felix Bressart,Hirokazu Koreeda
+214,The Crying Game,Frank Morgan,László Nemes
+215,Great Expectations,Inez Courtney,Leo McCarey
+216,Burning,James Stewart,James Whale
+217,Winter's Bone,Joseph Schildkraut,Federico Fellini
+218,Hope,Margaret Sullavan,Greta Gerwig
+219,Gett: The Trial of Viviane Amsalem,Sara Haden,Steven Spielberg
+220,I Called Him Morgan,Sarah Edwards,John Huston
+221,Close Encounters of the Third Kind,William Tracy,Sylvain Chomet
+222,The Godfather: Part II,Henry Fonda,Stephen Frears
+223,The Hustler,Lee J. Cobb,Lewis Milestone
+224,L.A. Confidential,Casey Affleck,Patrick Wang
+225,Bloody Sunday,Kyle Chandler,Eliza Hittman
+226,My Voyage to Italy,Lucas Hedges,Alexander Mackendrick
+227,Phantom Thread,Michelle Williams,John Ford
+228,Goodfellas,John Cassavetes,Sarah Polley
+229,Wojnarowicz,Mia Farrow,Patrick Wang
+230,Hamilton,Barton MacLane,Anonymous
+231,Paths of the Soul,Elisha Cook Jr.,Christine Cynn
+232,It's Such a Beautiful Day,Gladys George,Joshua Oppenheimer
+233,My Perestroika,Humphrey Bogart,Lemohang Jeremiah Mosese
+234,This Is Not a Film,Jerome Cowan,Elia Kazan
+235,The Birds,Lee Patrick,Jafar Panahi
+236,To Have and Have Not,Mary Astor,Pawel Pawlikowski
+237,Finding Nemo,Peter Lorre,Claire Denis
+238,Topsy-Turvy,Sydney Greenstreet,Ben Safdie
+239,Samurai Rebellion,Ward Bond,Joshua Safdie
+240,King Kong,Alfre Woodard,Ari Folman
+241,Gunda,Benedict Cumberbatch,Peter Jackson
+242,The Incredibles,Brad Pitt,Frederick Wiseman
+243,Before Sunset,Chiwetel Ejiofor,Mike Leigh
+244,Being John Malkovich,Garret Dillahunt,Franklin J. Schaffner
+245,A Prophet,Michael Fassbender,Giorgos Lanthimos
+246,Hard to Be a God,Michael K. Williams,Atom Egoyan
+247,Almost Famous,Paul Dano,Philip Kaufman
+248,Paths of Glory,Paul Giamatti,Bill Roberts
+249,Cold War,Sarah Paulson,David Hand
+250,Big Men,Angela Burnett,Graham Heid
+251,American Splendor,Charles Bracy,James Algar
+252,Hannah and Her Sisters,Delores Farley,Norman Wright
+253,The Circus,Dorothy Stengel,Paul Satterfield
+254,The Tale,Eugene Cherry,Samuel Armstrong
+255,Gosford Park,Henry G. Sanders,Jonas Poher Rasmussen
+256,Dirty Harry,Jack Drummond,Howard Hawks
+257,The Fits,Kaycee Moore,Ethan Coen
+258,Small Axe: Mangrove,Slim,Joel Coen
+259,Mad Max: Fury Road,Tobar Mayo,Dror Moreh
+260,United 93,Barbara Baxley,Patricio Guzmán
+261,Capturing the Friedmans,David Arkin,George Cukor
+262,The Truman Show,Geraldine Chaplin,Steven Spielberg
+263,American Hustle,Karen Black,Martin Scorsese
+264,Paterson,Keith Carradine,Spike Jonze
+265,Star Wars: Episode IV - A New Hope,Ned Beatty,Neil Jordan
+266,Persepolis,Robert DoQui,David Lean
+267,The Age of Innocence,Ronee Blakley,Chang-dong Lee
+268,Minding the Gap,Shelley Duvall,Debra Granik
+269,The Best of Youth,Timothy Brown,Maria Sødahl
+270,The Overnighters,Brad Garrett,Ronit Elkabetz
+271,The Lives of Others,Lou Romano,Shlomi Elkabetz
+272,Two-Lane Blacktop,Patton Oswalt,Kasper Collin
+273,House of Flying Daggers,Andreas Fronk,Steven Spielberg
+274,63 Up,Hyae Jin Chang,Francis Ford Coppola
+275,Treasure Island,Hye-jin Jang,Robert Rossen
+276,Lost in Translation,Hyun Seung-min,Curtis Hanson
+277,Blue Is the Warmest Color,JaeWook Park,Paul Greengrass
+278,Searching for Bobby Fischer,Jeong Esuz,Martin Scorsese
+279,Assault on Precinct 13,Jeong-eun Lee,Paul Thomas Anderson
+280,Man on Wire,Ji-rye Lee,Martin Scorsese
+281,For Sama,Jung Hyeon-jun,Chris McKim
+282,Force of Evil,Jung Ik-Han,Thomas Kail
+283,Still Walking,Kang Echae,Yang Zhang
+284,Gangs of Wasseypur,Kang-ho Song,Don Hertzfeldt
+285,The Last Detail,Lee Joo-Hyung,Robin Hessman
+286,When the Levees Broke: A Requiem in Four Acts,Myeong-hoon Park,Jafar Panahi
+287,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Pak Hyo-Shin,Mojtaba Mirtahmasb
+288,Minari,Seo Joon Park,Alfred Hitchcock
+289,Barry Lyndon,Seon-gyun Lee,Howard Hawks
+290,The Farewell,So-dam Park,Andrew Stanton
+291,Elle,Woo-sik Choi,Lee Unkrich
+292,The Tale of The Princess Kaguya,Yeo-Jeong Cho,Mike Leigh
+293,Uncertain,Yeo-jeong Jo,Masaki Kobayashi
+294,Captain Blood,Ann Rye,Ernest B. Schoedsack
+295,"Two Days, One Night",Clelia Matania,Merian C. Cooper
+296,National Gallery,David Tree,Victor Kossakovsky
+297,Eighth Grade,Donald Sutherland,Brad Bird
+298,A Star Is Born,Giorgio Trestini,Richard Linklater
+299,No End in Sight,Hilary Mason,Spike Jonze
+300,It's a Wonderful Life,Julie Christie,Jacques Audiard
+301,The Madness of King George,Leopoldo Trieste,Aleksei German
+302,Phoenix,Massimo Serato,Cameron Crowe
+303,Goodbye Solo,Renato Scarpa,Stanley Kubrick
+304,Western,Charley Grapewin,Pawel Pawlikowski
+305,Stop Making Sense,Dorris Bowdon,Rachel Boynton
+306,Deep Red,Eddie Quillan,Robert Pulcini
+307,Downhill Racer,Henry Fonda,Shari Springer Berman
+308,Alien,Jane Darwell,Woody Allen
+309,Columbus,John Carradine,Charles Chaplin
+310,First Cow,John Qualen,Jennifer Fox
+311,Night of the Living Dead,O.Z. Whitehead,Robert Altman
+312,The Artist,Russell Simpson,Don Siegel
+313,Yankee Doodle Dandy,Zeffie Tilbury,Anna Rose Holmer
+314,Raging Bull,Arletty,Steve McQueen
+315,Eternal Sunshine of the Spotless Mind,Jean-Louis Barrault,George Miller
+316,The Piano,Barbara Stanwyck,Paul Greengrass
+317,Of Mice and Men,Charles Coburn,Andrew Jarecki
+318,Dead Souls,Eric Blore,Peter Weir
+319,Zama,Eugene Pallette,David O. Russell
+320,Dick Johnson Is Dead,Henry Fonda,Jim Jarmusch
+321,High Noon,Janet Beecher,George Lucas
+322,Rebel Without a Cause,Martha O'Driscoll,Marjane Satrapi
+323,Letters from Iwo Jima,Melville Cooper,Vincent Paronnaud
+324,The Seventh Continent (1989),Robert Greig,Martin Scorsese
+325,A Woman Under the Influence,William Demarest,Bing Liu
+326,Whiplash,George Clooney,Marco Tullio Giordana
+327,Once,Sandra Bullock,Jesse Moss
+328,Foreign Correspondent,Miyu Irino,Florian Henckel von Donnersmarck
+329,The Arbor,Paige O'Hara,Monte Hellman
+330,Long Day's Journey Into Night,Robby Benson,Yimou Zhang
+331,Richard III,Amarah-Jae St. Aubyn,Michael Apted
+332,Democrats,Daniel Francis-Swaby,Byron Haskin
+333,The Lion King,Ellis George,Sofia Coppola
+334,4 Little Girls,Francis Lovehall,Abdel Kechiche
+335,Wild Strawberries,Joshua Viner,Steven Zaillian
+336,Ghost World,Kadeem Ramsay,John Carpenter
+337,Crime + Punishment,Kedar Williams-Stirling,James Marsh
+338,The Seventh Seal,Marcus Fraser,Edward Watts
+339,Y Tu Mamá También,Micheal Ward,Waad Al-Khateab
+340,Paddington 2,Shaniqua Okwok,Abraham Polonsky
+341,The Little Mermaid,Tim Allen,Hirokazu Koreeda
+342,City Hall,Tom Hanks,Anurag Kashyap
+343,Capote,Boris Karloff,Hal Ashby
+344,The Death of Stalin,Colin Clive,Spike Lee
+345,Miracle on 34th Street,Douglas Walton,Larry Charles
+346,Strangers on a Train,E.E. Clive,Lee Isaac Chung
+347,Tulpan,Elsa Lanchester,Stanley Kubrick
+348,Manuscripts Don't Burn,Ernest Thesiger,Lulu Wang
+349,In Transit,Gavin Gordon,Paul Verhoeven
+350,"Three Billboards Outside Ebbing, Missouri",Lucien Prival,Isao Takahata
+351,Quest,Una O'Connor,Anna Sandilands
+352,Au Revoir les Enfants,Valerie Hobson,Ewan McNicol
+353,A Film Unfinished,Andrew Garfield,Michael Curtiz
+354,Things to Come,Jesse Eisenberg,Jean-Pierre Dardenne
+355,The Grand Budapest Hotel,Justin Timberlake,Luc Dardenne
+356,Winter Sleep,Audrey Hepburn,Frederick Wiseman
+357,A Star Is Born,Gladys Cooper,Bo Burnham
+358,Citizenfour,Isobel Elsom,George Cukor
+359,Time Out,Jeremy Brett,Charles Ferguson
+360,The Blue Angel (re-release),John Holland,Frank Capra
+361,Thelma & Louise,Mona Washbourne,Nicholas Hytner
+362,Away from Her,Rex Harrison,Christian Petzold
+363,The Human Voice,Stanley Holloway,Ramin Bahrani
+364,The Fallen Idol (re-release),Theodore Bikel,Bill Ross IV
+365,Fat City,Wilfrid Hyde-White,Turner Ross
+366,Foxtrot,Arlo Guthrie,Jonathan Demme
+367,Howards End,Country Joe and the Fish,Dario Argento
+368,The Innocents,Crosby Stills & Nash,Michael Ritchie
+369,Inside Job,Joan Baez,Ridley Scott
+370,The Father,Joe Cocker,Kogonada
+371,Leave No Trace,Richie Havens,Kelly Reichardt
+372,Three Colors: White,Sha-Na-Na,George A. Romero
+373,Chicken Run,Ten Years After,Michel Hazanavicius
+374,The King's Speech,The Who,Michael Curtiz
+375,Hell or High Water,Barbara Stanwyck,Martin Scorsese
+376,Up,Byron Barr,Michel Gondry
+377,Shirkers,Edward G. Robinson,Jane Campion
+378,Mildred Pierce,Fortunio Bonanova,Lewis Milestone
+379,45365,Fred MacMurray,Bing Wang
+380,Tootsie,Jean Heather,Lucrecia Martel
+381,Marooned in Iraq,John Philliber,Kirsten Johnson
+382,To Kill a Mockingbird,Porter Hall,Fred Zinnemann
+383,Aquarius,Richard Gaines,Nicholas Ray
+384,"So Long, My Son",Tom Powers,Clint Eastwood
+385,Apollo 11,Anthony Mackie,Michael Haneke
+386,Anomalisa,Brian Geraghty,John Cassavetes
+387,Toy Story 2,Jeremy Renner,Damien Chazelle
+388,Black Panther,Arthur O'Connell,John Carney
+389,Brooklyn,Ben Gazzara,Alfred Hitchcock
+390,Nobody Knows,Eve Arden,Clio Barnard
+391,Life Is Sweet,George C. Scott,Gan Bi
+392,Faces,James Stewart,Laurence Olivier
+393,Mary Poppins,Kathryn Grant,Camilla Nielsson
+394,The Lord of the Rings: The Two Towers,Lee Remick,Rob Minkoff
+395,L'Enfant (The Child),Murray Hamilton,Roger Allers
+396,Sweet Country,Orson Bean,Spike Lee
+397,Jane Fonda in Five Acts,Russ Brown,Ingmar Bergman
+398,Newtown,Chris Pratt,Terry Zwigoff
+399,Poetry,Édgar Ramírez,Stephen T. Maing
+400,Restless Creature: Wendy Whelan,Jason Clarke,Ingmar Bergman
+401,Birdman or (The Unexpected Virtue of Ignorance),Jennifer Ehle,Alfonso Cuarón
+402,Little Women,Jessica Chastain,Paul King
+403,Shakespeare in Love,Joel Edgerton,John Musker
+404,The Awful Truth,Mark Strong,Ron Clements
+405,Can You Ever Forgive Me?,Leila Hatami,Frederick Wiseman
+406,Wolfwalkers,Peyman Moaadi,Bennett Miller
+407,It Happened One Night,Sareh Bayat,Armando Iannucci
+408,The Body Remembers When the World Broke Open,Ben Burtt,George Seaton
+409,The Missing Picture,Elissa Knight,Alfred Hitchcock
+410,"I Travel Because I Have to, I Come Back Because I Love You",Jeff Garlin,Sergei Dvortsevoy
+411,The Invisible Man,Cate Blanchett,Mohammad Rasoulof
+412,Scarface,Cory Michael Smith,Albert Maysles
+413,Of Men and War,Jake Lacy,Benjamin Wu
+414,The Long Goodbye,John Magaro,David Usui
+415,Imitation of Life,Kyle Chandler,Lynn True
+416,Pain and Glory,Rooney Mara,Nelson Walker III
+417,Genèse (Genesis),Sarah Paulson,Martin McDonagh
+418,The Farthest,Ariane Labed,Jonathan Olshefski
+419,The Killing of Two Lovers,Athina Rachel Tsangari,Louis Malle
+420,Gomorrah,Ethan Hawke,Yael Hersonski
+421,To Be and to Have,Julie Delpy,Mia Hansen-Løve
+422,Halloween,Seamus Davey-Fitzpatrick,Wes Anderson
+423,Eraserhead,Walter Lassally,Nuri Bilge Ceylan
+424,Medium Cool,Xenia Kalogeropoulou,Bradley Cooper
+425,Fire at Sea,Emmanuelle Riva,Laura Poitras
+426,The Fugitive,Isabelle Huppert,Laurent Cantet
+427,F for Fake,Jean-Louis Trintignant,Josef von Sternberg
+428,About Elly (2009),Aneurin Barnard,Ridley Scott
+429,The Bridge on the River Kwai,Barry Keoghan,Sarah Polley
+430,Goldfinger,Damien Bonnard,Pedro Almodóvar
+431,Ma Rainey's Black Bottom,Fionn Whitehead,Carol Reed
+432,One False Move,Harry Styles,John Huston
+433,En el Séptimo Día (On the Seventh Day),Jack Lowden,Samuel Maoz
+434,Jane,James Bloor,James Ivory
+435,Jaws,Lee Armstrong,Jack Clayton
+436,We Are the Best!,Mark Rylance,Charles Ferguson
+437,Spartacus,Tom Glynn-Carney,Florian Zeller
+438,Small Axe: Education,Tom Hardy,Debra Granik
+439,About Endlessness,Abbey Lincoln,Krzysztof Kieslowski
+440,Back to the Future,B.B. King,Nick Park
+441,If Beale Street Could Talk,David Ruffin,Peter Lord
+442,My Journey Through French Cinema,Jesse Jackson,Tom Hooper
+443,Wallace & Gromit: The Curse of the Were-Rabbit,Mahalia Jackson,David Mackenzie
+444,The Diary of a Teenage Girl,Max Roach,Bob Peterson
+445,Elena,Moms Mabley,Pete Docter
+446,All Is Lost,Nina Simone,Sandi Tan
+447,Hereditary,Sal Masekela,Michael Curtiz
+448,Listen to Me Marlon,Stevie Wonder,Bill Ross IV
+449,Gideon's Army,Andy Devine,Turner Ross
+450,Serpico (re-release),Edmond O'Brien,Sydney Pollack
+451,Maria Full of Grace,James Stewart,Bahman Ghobadi
+452,Fateless,Jeanette Nolan,Robert Mulligan
+453,Happy as Lazzaro,John Carradine,Kleber Mendonça Filho
+454,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,John Qualen,Xiaoshuai Wang
+455,Uncle Boonmee Who Can Recall His Past Lives,John Wayne,Todd Douglas Miller
+456,Brokeback Mountain,Ken Murray,Charlie Kaufman
+457,Cemetery of Splendor,Lee Marvin,Duke Johnson
+458,The Kid with a Bike,Vera Miles,Ash Brannon
+459,Mutiny on the Bounty,Albert Brooks,John Lasseter
+460,Spider-Man: Into the Spider-Verse,Cybill Shepherd,Lee Unkrich
+461,The Wicker Man,Diahnne Abbott,Ryan Coogler
+462,Love & Friendship,Frank Adu,John Crowley
+463,Particle Fever,Garth Avery,Hirokazu Koreeda
+464,Tarnation,Gino Ardito,Mike Leigh
+465,Microcosmos,Jodie Foster,John Cassavetes
+466,Murderball,Peter Boyle,Robert Stevenson
+467,Life Itself,Robert De Niro,Peter Jackson
+468,The Shape of Water,Victor Argo,Jean-Pierre Dardenne
+469,Rewind,Bruce Willis,Luc Dardenne
+470,Shine,John Travolta,Warwick Thornton
+471,Bisbee '17,Samuel L. Jackson,Susan Lacy
+472,Grizzly Man,Frank Sinatra,Kim A. Snyder
+473,Adam's Rib,Laurence Harvey,Chang-dong Lee
+474,Gregory Crewdson: Brief Encounters,Amy Dawson,Adam Schlesinger
+475,Moneyball,Dorothy Atkinson,Linda Saffire
+476,The Autobiography of Nicolae Ceausescu,Karl Johnson,Alejandro González Iñárritu
+477,All About My Mother,Lesley Manville,Gillian Armstrong
+478,The English Patient,Marion Bailey,John Madden
+479,The Duke of Burgundy,Paul Jesson,Leo McCarey
+480,My Golden Days,Ruth Sheen,Marielle Heller
+481,Nebraska,Sandy Foster,Ross Stewart
+482,What the Constitution Means to Me,Timothy Spall,Tomm Moore
+483,A Tale of Two Cities,Al Pacino,Frank Capra
+484,Force Majeure,Aleksa Palladino,Elle-Máijá Tailfeathers
+485,Tampopo,Anna Paquin,Kathleen Hepburn
+486,Blow Out,Bobby Cannavale,Rithy Panh
+487,Diane,Dascha Polanco,Karim Ainouz
+488,The Magician,Harvey Keitel,Marcelo Gomes
+489,The Thin Man,Jack Huston,James Whale
+490,Russian Ark,Jake Hoffman,Howard Hawks
+491,Point Blank,Jesse Plemons,Richard Rosson
+492,Lincoln,Joe Pesci,Laurent Bécue-Renard
+493,The Wolf House,Kathrine Narducci,Robert Altman
+494,An Elephant Sitting Still,Ray Romano,Douglas Sirk
+495,Room,Robert De Niro,Pedro Almodóvar
+496,The Tillman Story,Sebastian Maniscalco,Philippe Lesage
+497,The Wind Will Carry Us,Stephanie Kurtzuba,Emer Reynolds
+498,The Remains of the Day,Stephen Graham,Robert Machoian
+499,"sex, lies, and videotape",Steve Van Zandt,Matteo Garrone
